@@ -8,4 +8,5 @@ Usage: Get HTTP content from http://<yourhostname>:864 and sync your ss clock wi
 Example output:<br>
 <code>
 {"year": 2020, "month": 2, "date": 62, "ss": 59943.28703703704}
-</code>
+</code><br>
+  You are free to use this code any way you want
