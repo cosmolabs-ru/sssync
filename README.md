@@ -1,5 +1,5 @@
 # sssync
-Minimal time sync server for <a href="sssecond.com">sssecond</a> time unit system <br><br>
+Minimal time sync server for <a href="http://sssecond.com">sssecond</a> time unit system <br><br>
 
 Stack: Python 3.9/Flask<br>
 Output format: json<br>
